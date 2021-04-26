@@ -1,4 +1,4 @@
-package Package3;
+package Lesson10.Package3;
 
 public class MyClass <T>{
     public T factoryMethod(T element){
